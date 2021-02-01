@@ -15,7 +15,7 @@ Make a new variable to interpret:
   - IfExpression
   - LetExpression
   - Variable Expression
-Note: read the eval function to see the arguments
+Note: read the eval function to see the arguments. FunctionExpression is currently not added in.
 
 Example:
 let pSample = BinaryOp(
